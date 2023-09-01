@@ -1,0 +1,10 @@
+/* we will explain what these classes do next! */
+.slide-enter-active,
+.slide-leave-active {
+  transition: opacity 0.5s ease-in-out;
+}
+
+.slide-enter-from,
+.slide-leave-to {
+  opacity: 0;
+}
